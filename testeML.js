@@ -17,8 +17,6 @@ function decomposeNumbers(maxDigit) {
 
         }
     }
-
-
     if (arrayValidValues.length > 0) {
         for (i = 0; i < arrayValidValues.length; i++) {
             console.log(arrayValidValues[i]);
